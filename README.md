@@ -7,4 +7,5 @@ The file transfer and Multiserver Chat are made in Java.
 
 The CS 3383 Project is a NFA parser that takes in input of an NFA and any test cases to check if the test cases are accepted/rejected. More details in the folder.
 
+I have included a couple of certifications in java I have gotten.
 
