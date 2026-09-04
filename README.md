@@ -1,6 +1,6 @@
 # Nicholas-Richard-github-page
 Some of my important projects
 
-go to https://www.greenfoot.org/scenarios/31949 to play the arcade game project without having to install greenfoot
+go to https://www.greenfoot.org/scenarios/31949 to play the arcade cabinet project, controls are a little bit clunky because they were designed for a cabinet but it still works
 
-to run the other projects, you will need to install a jdk. i recommend Bluej where you can download at https://www.bluej.org/. then extract the files and open them in bluej. after that you can right click the different files in bluej and run them.
+The file transfer and Multiserver Chat are made in Java.
